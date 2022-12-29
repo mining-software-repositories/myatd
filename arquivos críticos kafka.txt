@@ -1,0 +1,6 @@
+arquivos críticos kafka
+
+Qtd arquivos críticos: 791, Total de Arquivos .java 4119
+19.0% dos arquivos .java são críticos
+Qtd de linhas modificadas pelos arquivos críticos: 1208712, Total de linhas de código alteradas ao longo do tempo: 1725002
+70.0% do esforço de modificação é com arquivos críticos
